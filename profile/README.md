@@ -10,7 +10,6 @@ MedGAN transforms complex data into actionable insights using advanced generativ
 - [Our Mission](#our-mission)
 - [Technology](#technology)
 - [How It Works](#how-it-works)
-- [Client Success Stories](#client-success-stories)
 - [Our Team](#our-team)
 - [Get Started](#get-started)
 - [Contact](#contact)
@@ -72,21 +71,6 @@ Experience the power of MedGAN through our interactive demo:
   - Enter a prompt to see our AI in action  
   *(This is a simplified demo. Contact us for full access to our technology.)*
 
-## Client Success Stories
-
-Hear from our satisfied clients:
-
-> "MedGAN's AI solutions have completely transformed our healthcare data analysis, helping us identify patterns we never would have seen otherwise."  
-> — Dr. Sarah Johnson, Chief Medical Officer, HealthTech Inc.
-
-> "The implementation of MedGAN's AI models has increased our operational efficiency by 35% and reduced costs by 28% in just three months."  
-> — Michael Chen, COO, Global Finance Group
-
-> "Their AI solutions are truly cutting-edge and their team is exceptional."  
-> — Rebecca Williams, Director of Innovation, TechForward
-
-> "Customized AI agents have revolutionized our customer service operations, handling 78% of inquiries with remarkable accuracy."  
-> — James Rodriguez, VP of Customer Experience, RetailMax
 
 ## Our Team
 
@@ -119,7 +103,6 @@ Location: Amman, Jordan, Al Yasmin
 Phone: +962785120140  
 Email: [info@medgan.ai](mailto:medganbusiness@gmail.com)  
 
-Connect with us via our [Contact Form](#) for inquiries, support, or feedback.
 
 ## FAQ
 
